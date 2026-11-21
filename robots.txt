@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://manolorabote12.github.io/orquestador-web/sitemap.xml
